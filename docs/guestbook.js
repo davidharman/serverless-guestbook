@@ -54,7 +54,7 @@ const guestbook = {
       console.log(error);
     });
   }
-
+//Hi
   // intercept the click on the submit button, add the guestbook entry and
   // reload entries on success
   $(document).on('submit', '#addEntry', function(e) {
